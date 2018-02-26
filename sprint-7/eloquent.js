@@ -44,5 +44,5 @@ function countBs(str){
   return countChar(str, "B");
 }
 
-console.log(countBs("BBBBC"));
+console.log(countBs("BBBC"));
 console.log(countChar("kakkkkkkerlak", "k"));
